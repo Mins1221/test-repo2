@@ -1,11 +1,13 @@
+Hwang min seung. Hankuk University of Foreign Studies
+
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 int main() {
 }
 
-// ÀÌ¸§: È²¹Î½Â
-// ÇĞ¹ø: 202203820
-// ÇĞ°ú: ÄÄÇ»ÅÍ°øÇĞºÎ
+// ì´ë¦„: í™©ë¯¼ìŠ¹
+// í•™ë²ˆ: 202203820
+// í•™ê³¼: ì»´í“¨í„°ê³µí•™ë¶€
 
 	
 
