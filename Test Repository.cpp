@@ -1,4 +1,4 @@
-1Hwang min seung. Hankuk University of Foreign Studies
+21Hwang min seung. Hankuk University of Foreign Studies
 hello
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
